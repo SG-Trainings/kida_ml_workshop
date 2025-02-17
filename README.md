@@ -1,3 +1,7 @@
+# Clone Repository
+
+git clone https://github.com/martin-pd/kida_ml_workshop.git
+
 # Create virtual environment  
 
 python3 -m venv venv
